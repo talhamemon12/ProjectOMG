@@ -1,1 +1,1 @@
-Changelog for Project OMG
+v0.1 - Initial setup with doc.txt, requirements, readme, and changelog.
