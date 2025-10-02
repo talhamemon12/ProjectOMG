@@ -1,1 +1,1 @@
-Project OMG Readme / Setup Instructions
+Project OMG - Revolutionary Cloud Interaction System.
